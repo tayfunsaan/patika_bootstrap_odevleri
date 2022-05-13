@@ -1,0 +1,62 @@
+*{
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+
+body{
+    background-color:#E9ECEF
+}
+
+h2{
+    text-align: center;
+    color:blueviolet
+}
+
+.card-title{
+    color: blueviolet;
+}
+
+.card{
+    background-color: #E9ECEF;
+}
+
+.display-4 {
+    text-align: center;
+}
+
+.current{
+    color: white;
+}
+
+.section {
+    background-color: #E9ECEF;
+}
+
+
+.listew {
+    display: table;
+    margin: 0 auto;
+  }
+
+h5 {
+    color: #e49b0f;
+    font-weight: bold;
+}
+
+span{
+    margin-left: 15px;
+}
+
+.card-text{
+    background-color: dimgray;
+    color: white;
+    display: table;
+    border: solid;
+    border-radius: 15px;
+    padding: 3px;
+    font-weight: bold;
+}
+
+.row .card{
+    background-color: white;
+    }
